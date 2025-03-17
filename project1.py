@@ -1,6 +1,5 @@
 # Carlos Martinez
-# fxv013
-# CS-3343-001
+
 # Project1
 # This project solves the N Doors Puzzle using the various aspects of
 # algorithmic thinking and Python programming discussed in class.
